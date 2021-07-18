@@ -1,0 +1,20 @@
+**We worked with the SDSS database and and compiled the SQL search results for different star clusters to come up with a CMD and did
+isochrone fitting for it.u vs u-g, g vs g-r and r vs r-i. Then we got the distance modulus
+Learnt about plotting with python using Pandas and Matplotlib
+I worked with the following clusters
+M5(13.5Gyr), M92(10 Gyr), M15(12Gyr), M67(4Gyr)
+
+**We started working on the M35 cluster too, but this time, by manually collecting data points using DS9. I took up the
+task of data collection from Column 3
+
+
+**Learnt :
+	Jupyter notebook usage
+	DS9
+	Matplotlib to plot data pounts
+	Used the Pandas library to read files into a Pythn program
+	Working with a CSV file
+	
+**Tools used :
+	SDSS database
+	Dartmouth Isochrone generator

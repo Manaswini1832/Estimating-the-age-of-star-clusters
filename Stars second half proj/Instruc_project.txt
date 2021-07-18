@@ -1,0 +1,33 @@
+Temperature & u-v relation(logarithmic relation)
+u-->Luminosity
+u-g----->Temp
+Take spectras&ugriz values from SDSS
+Work on obtaininig temp from spectras
+Search for objects with red square and blue circle i.e. search for stars 
+with spectra&photometric object(We are looking only for stars and not
+galaxies)
+Click on spectra-->interactive spectrum option---->Download the fits
+file
+
+Even one star is enough!!
+
+Manually enter temperature in the csv file(Read code-->shared on group)
+Take data from link on group(pm &spectral obj stars find, add to notes, click on show notes),
+--->download csv file&interactive spectrum, for every star run the code for temp
+--->make separate col of temp and write the temp there,
+ fit into black body curve,
+ obtain temp(all this
+from code) and then enter in csv file, share on group
+
+Update dropbox paper
+
+M15 Star1 : http://skyserver.sdss.org/dr9/en/tools/chart/book.asp
+
+**In case you don't understand what we are doing in the project, go through
+the research paper mentioned in the group
+**Read about least square fitting as well
+**Data reduction and error analysis for Physical Sciences
+**SKLN library thing we used(Check this properly)
+
+
+**Next 30 days do this thing for atleast 10-15 stars
