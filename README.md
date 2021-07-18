@@ -1,4 +1,4 @@
-# Estimating-the-age-of-star-clusters
+# Estimating the age of star clusters
 
 This project was done when I was one of the coordinators of Horizon, The Physics and Astronomy Club of IIT Madras
 
