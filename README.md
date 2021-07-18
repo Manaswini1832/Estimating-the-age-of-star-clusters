@@ -22,17 +22,17 @@ To employ the method of estimation of the age of the star clusters, we first nee
 ## Finding the Luminosity
 - Absolute magnitudes are the way to go
 - Absolute magnitude is defined as the magnitude that a star would have if you saw it from a distance of 10 parsecs (about 32 light-years)
-> M = m + 5 - 5log( d )
-> where M = absolute magnitude
-> m = Apparent magnitude
-> d = distance to the object in parsecs
+> M = m + 5 - 5log( d )\
+> where M = absolute magnitude\
+> m = Apparent magnitude\
+> d = distance to the object in parsecs\
 
 We collected information about the above mentioned apparent magnitudes of stars from the open sourced [SDSS database](https://en.wikipedia.org/wiki/Sloan_Digital_Sky_Survey)
 
 ## Filters
 - A filter is a screen that blocks out all light except for light with a specific color or a specific wavelength.
-- SDSS uses five filters : ** u, g, r, i, z **
-![SDSS filters information](https://github.com/Manaswini1832/Estimating-the-age-of-star-clusters/blob/master/images/sdss_filters.png)
+- SDSS uses five filters : u, g, r, i, z\
+![SDSS filters information](https://github.com/Manaswini1832/Estimating-the-age-of-star-clusters/blob/master/images/sdss_filters.png)\
 Image taken from the [SDSS website](http://skyserver.sdss.org/dr1/en/proj/advanced/color/sdssfilters.asp)
 
 ## How to get the temperature ?
@@ -48,12 +48,12 @@ We collected data using two methods
 2) Manually from DS9
 
 ## Collecting data manually from DS9
-Following are the screenshots taken while collecting data manually using DS9 using the FITS files obtained from the SDSS website, for different star clusters.
-![DS9 Regions first screenshot](https://github.com/Manaswini1832/Estimating-the-age-of-star-clusters/blob/master/images/ds9_regs1.jpeg)
-![DS9 Regions second screenshot](https://github.com/Manaswini1832/Estimating-the-age-of-star-clusters/blob/master/images/ds9_regs2.jpeg)
+Following are the screenshots taken while collecting data manually using DS9 using the FITS files obtained from the SDSS website, for different star clusters.\
+![DS9 Regions first screenshot](https://github.com/Manaswini1832/Estimating-the-age-of-star-clusters/blob/master/images/ds9_regs1.jpeg)\
+![DS9 Regions second screenshot](https://github.com/Manaswini1832/Estimating-the-age-of-star-clusters/blob/master/images/ds9_regs2.jpeg)\
 
 ## Result of plotting the Color magnitude diagram of the M5 Cluster
-![M5 Cluster's color magnitude diagram](https://github.com/Manaswini1832/Estimating-the-age-of-star-clusters/blob/master/images/cmd_m5.png)
+![M5 Cluster's color magnitude diagram](https://github.com/Manaswini1832/Estimating-the-age-of-star-clusters/blob/master/images/cmd_m5.png)\
 
 ## Isochrones
 - Helps model our understanding of stellar evolution
