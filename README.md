@@ -32,7 +32,7 @@ We collected information about the above mentioned apparent magnitudes of stars 
 ## Filters
 - A filter is a screen that blocks out all light except for light with a specific color or a specific wavelength.
 - SDSS uses five filters : u, g, r, i, z\
-![SDSS filters information](https://github.com/Manaswini1832/Estimating-the-age-of-star-clusters/blob/master/images/sdss_filters.png)\
+![SDSS filters information](https://github.com/Manaswini1832/Estimating-the-age-of-star-clusters/blob/master/images/sdss_filters.png)
 Image taken from the [SDSS website](http://skyserver.sdss.org/dr1/en/proj/advanced/color/sdssfilters.asp)
 
 ## How to get the temperature ?
