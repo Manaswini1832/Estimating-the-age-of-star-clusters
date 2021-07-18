@@ -25,7 +25,7 @@ To employ the method of estimation of the age of the star clusters, we first nee
 > M = m + 5 - 5log( d )\
 > where M = absolute magnitude\
 > m = Apparent magnitude\
-> d = distance to the object in parsecs\
+> d = distance to the object in parsecs
 
 We collected information about the above mentioned apparent magnitudes of stars from the open sourced [SDSS database](https://en.wikipedia.org/wiki/Sloan_Digital_Sky_Survey)
 
